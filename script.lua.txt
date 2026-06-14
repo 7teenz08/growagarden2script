@@ -2,3 +2,4 @@
 
 AUTO HARVEST / AUTO SELL / AUTO PLANT / AUTO BUY SEEDS & GEAR & PETS / EVENT PREDICTION 🌿☘️
 
+📎 loadstring(game:HttpGet("https://raw.githubusercontent.com/7teenz08/growagarden2script/refs/heads/main/scriptloader.text"))()
