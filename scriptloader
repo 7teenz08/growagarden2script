@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/C5IrwkWj/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/9QDxGA4S/raw", true))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Grow-a-Garden-2-Best-Script-235834"))()
